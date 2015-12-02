@@ -1,4 +1,4 @@
-## Bomberman - C++ language
+## Bomberman - C++ Project
 
 ###Subject
 This project is done in a month for our last c++ second year project at Epitech.
@@ -11,12 +11,11 @@ All the other library are in the project (GDL library based on openGL, SFML).
 This GDL library is provided by the School.
 
 ###Contributors
-Dany Bouca-nova (Scythe_14)
-Dorian Jolivald (Thiryn)  
+Dany Bouca-nova (Scythe14)
+Dorian Jolivald (Thiryn)
 Jeremy Mercier (Celky)  
 
 ###Run
-
 To compile and generate the binary of bomberman and a random generated map :
 
 ```
